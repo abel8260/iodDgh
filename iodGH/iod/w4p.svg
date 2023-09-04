@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="w4p.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.46769781"
+     inkscape:cx="367.75883"
+     inkscape:cy="382.72576"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g877"
+       inkscape:export-filename="g877.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g867">
+        <rect
+           style="fill:#008000;stroke:#808000;stroke-width:2.635;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           id="rect286"
+           width="200"
+           height="200"
+           x="0"
+           y="0" />
+        <rect
+           style="fill:#008000;stroke:#ffffff;stroke-width:2.635;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           id="rect537"
+           width="152.17714"
+           height="145.95428"
+           x="23.91143"
+           y="27.022858" />
+        <text
+           xml:space="preserve"
+           style="font-size:25.4px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';text-align:center;text-anchor:middle;fill:#008000;stroke:#ffffff;stroke-width:2.635;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           x="151.28244"
+           y="163.12975"
+           id="text647"><tspan
+             sodipodi:role="line"
+             id="tspan645"
+             style="stroke-width:2.635"
+             x="151.28244"
+             y="163.12975">w4p</tspan></text>
+        <rect
+           style="fill:#800080;stroke:#ffffff;stroke-width:2.61321;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           id="rect803"
+           width="47.386791"
+           height="47.386791"
+           x="42.983391"
+           y="44.680534" />
+        <rect
+           style="fill:#008080;stroke:#ffffff;stroke-width:2.61321;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           id="rect803-5"
+           width="47.386791"
+           height="47.386791"
+           x="42.983391"
+           y="113.20946" />
+        <rect
+           style="fill:#00ff00;stroke:#ffffff;stroke-width:2.61321;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+           id="rect803-5-0"
+           width="47.386791"
+           height="47.386791"
+           x="108.11803"
+           y="44.680534" />
+      </g>
+    </g>
+  </g>
+</svg>
